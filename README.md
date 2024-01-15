@@ -1,13 +1,15 @@
 # Hi there 👋
 
-I'm Salay Abdul Muhaimin Kanton, a passionate Web Developer from Ghana. 
+I'm Salay Abdul Muhaimin Kanton, a passionate ✨ Web Developer ✨ from Ghana. 
 I'm currently a Student. 
-I have experience in React, HTML+CSS+JS and I'm always looking to learn new things.
+I have experience in React, HTML+CSS+JS and Python.
+I'm always looking to learn new things.
 
 ## 🔭 I’m currently working on
 
 - [Puslenetio](https://github.com/heli-toon/pulsenetio)
 - [Verba](https://verba.netlify.app/)
+- [CatchVid](https://github.com/heli-toon/catchvid/)
 
 ## 🌱 I’m currently learning
 
@@ -17,10 +19,10 @@ I have experience in React, HTML+CSS+JS and I'm always looking to learn new thin
 
 ## 📫 How to reach me
 
-- [helitoon@outlook.com](helitoon@outlook.com)
+- [Email](helitoon@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/muhaimin-salay-a653b6299/)
 
-See my portfolio
+## See my portfolio website 😄.
 [https://muhaiminsalay.netlify.app](https://muhaiminsalay.netlify.app)
 
 <!---
