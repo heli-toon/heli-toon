@@ -9,17 +9,18 @@ I'm always looking to learn new things.
 
 - [Puslenetio](https://github.com/heli-toon/pulsenetio)
 - [Verba](https://verba.netlify.app/)
-- [CatchVid](https://github.com/heli-toon/catchvid/)
+- [DownloadSorter](https://github.com/heli-toon/downloadsorter/)
 
 ## 🌱 I’m currently learning
 
 - React.js
+- Express.js
 - PHP
 - Django
 
 ## 📫 How to reach me
 
-- [Email](helitoon@outlook.com)
+- [Email](abdulkanton2005@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/muhaimin-salay-a653b6299/)
 
 ## See my portfolio website 😄.
