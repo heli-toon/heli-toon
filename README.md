@@ -2,7 +2,7 @@
 
 I'm Salay Abdul Muhaimin Kanton, a passionate ✨ Web Developer ✨ from Ghana. 
 I'm currently a Student. 
-I have experience in React, HTML+CSS+JS and Python.
+I have experience in React, JS and Python.
 I'm always looking to learn new things.
 
 ## 🔭 I’m currently working on
@@ -10,12 +10,13 @@ I'm always looking to learn new things.
 - [Puslenetio](https://github.com/heli-toon/pulsenetio)
 - [Verba](https://verba.netlify.app/)
 - [DownloadSorter](https://github.com/heli-toon/downloadsorter/)
+- [Autofind](https://github.com/heli-toon/autofind/)
 
 ## 🌱 I’m currently learning
 
 - React.js
 - Express.js
-- PHP
+- Arduino
 - Django
 
 ## 📫 How to reach me
@@ -40,8 +41,3 @@ I'm always looking to learn new things.
 
 - [Your Fun Fact]
 --->
-<!---
-heli-toon/heli-toon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
