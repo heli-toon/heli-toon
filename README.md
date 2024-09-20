@@ -25,7 +25,7 @@ I'm always looking to learn new things.
 - [LinkedIn](https://www.linkedin.com/in/muhaimin-salay-a653b6299/)
 
 ## See my portfolio website 😄.
-[https://muhaiminsalay.netlify.app](https://muhaiminsalay.netlify.app)
+[https://muhaiminsalayk.netlify.app](https://muhaiminsalayk.netlify.app)
 
 <!---
 
