@@ -7,8 +7,8 @@ I'm always looking to learn new things.
 
 ## 🔭 I’m currently working on
 
-- [Puslenetio](https://github.com/heli-toon/pulsenetio)
-- [Wink](https://sendme.netlify.app/)
+- [Puslenetio](https://github.com/heli-toon/pulsenetio/)
+- [Wink](https://sendmeweb.netlify.app/)
 - [DownloadSorter](https://github.com/heli-toon/downloadsorter/)
 - [Autofind](https://github.com/heli-toon/autofind/)
 
