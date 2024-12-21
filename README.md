@@ -2,19 +2,18 @@
 
 I'm Salay Abdul Muhaimin Kanton, a passionate ✨ Web Developer ✨ from Ghana. 
 I'm currently a Student. 
-I have experience in React, JS and Python.
+I have experience in React, JavaScript and Python.
 I'm always looking to learn new things.
 
 ## 🔭 I’m currently working on
 
 - [Puslenetio](https://github.com/heli-toon/pulsenetio/)
 - [Wink](https://sendmeweb.netlify.app/)
-- [DownloadSorter](https://github.com/heli-toon/downloadsorter/)
 - [Autofind](https://github.com/heli-toon/autofind/)
 
 ## 🌱 I’m currently learning
 
-- React.js
+- React Native + Expo
 - Express.js
 - Arduino
 - Django
@@ -23,8 +22,9 @@ I'm always looking to learn new things.
 
 - [Email](abdulkanton2005@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/muhaimin-salay-a653b6299/)
+- [Facebook](https://facebook.com/muhaiminsalay)
 
-## See my portfolio website 😄.
+## Visit my portfolio website 😄.
 [https://muhaiminsalayk.netlify.app](https://muhaiminsalayk.netlify.app)
 
 <!---
