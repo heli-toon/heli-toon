@@ -63,7 +63,7 @@
 ---
 
 ## Visit my portfolio website 😄.
-[https://muhaiminsalayk.netlify.app](https://muhaiminsalayk.netlify.app)
+[https://muhaiminsalay.me](https://muhaiminsalay.me)
 
 <!---
 
