@@ -56,18 +56,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heli-toon&show_icons=true&theme=radical" height="165px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heli-toon&theme=radical" height="165px" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heli-toon&layout=compact&theme=radical" height="165px" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heli-toon&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
 ---
