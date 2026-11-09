@@ -21,10 +21,10 @@
 
 ## 🔭 Currently Building
 
-- 🩺 [**PulseNetio**](https://github.com/heli-toon/pulsenetio) — a social platform reflecting the heartbeat of interactions
+- 🩺 [**Space Neon Plasma**](https://github.com/heli-toon/space-neon-plasma) — An ultra-minimal, dark theme for KDE Plasma
 - 🤖 [**Vectis**](https://github.com/heli-toon/vectis) — ultra-lightweight multi-agent orchestration system
 - 📄 [**Docsculptor**](https://github.com/heli-toon/docsculptor) — Markdown & HTML to PDF converter
-- 🎯 [**TrackOps**](https://github.com/heli-toon/trackops) — tracking & ops tooling
+- 🎯 [**TrackOps**](https://github.com/heli-toon/trackops) — An expense tracking tool
 
 ## 🌱 Currently Learning
 
