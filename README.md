@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhaimin+%F0%9F%91%8B;Fullstack+Developer+%7C+React+%26+Django;Exploring+AI%2C+IoT+%26+Cyber+Security" alt="Typing SVG" />
+<a href="https://muhaiminsalay.tech">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhaimin+%F0%9F%91%8B;Fullstack+Developer+%7C+React+%26+Django;Exploring+AI%2C+IoT+%26+Cyber+Security" alt="Typing SVG" />
+</a>
+
 
 </div>
 
@@ -21,10 +24,10 @@
 
 ## 🔭 Currently Building
 
-- 🩺 [**Space Neon Plasma**](https://github.com/heli-toon/space-neon-plasma) — An ultra-minimal, dark theme for KDE Plasma
+- 🎇 [**Space Neon Plasma**](https://github.com/heli-toon/space-neon-plasma) — An ultra-minimal, dark theme for KDE Plasma
 - 🤖 [**Vectis**](https://github.com/heli-toon/vectis) — ultra-lightweight multi-agent orchestration system
 - 📄 [**Docsculptor**](https://github.com/heli-toon/docsculptor) — Markdown & HTML to PDF converter
-- 🎯 [**TrackOps**](https://github.com/heli-toon/trackops) — An expense tracking tool
+- 💲 [**TrackOps**](https://github.com/heli-toon/trackops) — An expense tracking tool
 
 ## 🌱 Currently Learning
 
@@ -35,13 +38,13 @@
 
 ## 💻 Tech Stack
 
-**Frontend**
+**⚛️ Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Backend**
+**🏵️ Backend**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-**Databases**
+**🏢 Databases**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 **Mobile & Desktop**
@@ -56,7 +59,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heli-toon&theme=radical" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heli-toon&theme=radical" height="165px" alt="GitHub Stats Badge" />
 </div>
 
 ---
